@@ -1,6 +1,9 @@
 Käivitamiseks ava terminal selles projektis
-**kirjuta 'npm install', see installid vajavad moodulid**
+
+**kirjuta 'npm install', see installid vajavadmoodulid**
+
 **siis kui nad on installeeritud kirjuta 'npm start'**
+
 **Sulgemiseks vajuta ctrl + c**
 
 Veebirakendus peaks avanema automaatselt, aga juhul kui ei avane
