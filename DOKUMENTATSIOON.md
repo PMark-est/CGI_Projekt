@@ -1,7 +1,7 @@
 Käivitamiseks ava terminal selles projektis
-**kirjuta 'npm install', see installid vajavad moodulid
-siis kui nad on installeeritud kirjuta 'npm start'
-Sulgemiseks vajuta ctrl + c**
+**kirjuta 'npm install', see installid vajavad moodulid**
+**siis kui nad on installeeritud kirjuta 'npm start'**
+**Sulgemiseks vajuta ctrl + c**
 
 Veebirakendus peaks avanema automaatselt, aga juhul kui ei avane
 kirjutage otsingusse http://localhost:3000
