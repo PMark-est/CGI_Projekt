@@ -14,7 +14,6 @@ kirjutage otsingusse http://localhost:3000
 Vajuta kaardile, et valida asukoht või sisesta käsitsi tekstiväljadesse.
 
 "latitude" - laiuskraadid - ja "longitude" - pikkuskraadid. 
-tekstiväljades ei või olla tähemärke ega tühikut
 
 "Get night length", sisestab andmed ja kuvab koha kaardil märgiga
 
