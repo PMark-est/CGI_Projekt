@@ -8,6 +8,7 @@ import { updateData } from "../features/getLocationData/calculatorSlice";
 export default function MyCalendar() {
   const [value, onChange] = useState(new Date());
   const dispatch = useDispatch();
+  // XXX: Need to click on day twice for it to be correct. Need to find out why
   const changeData = () => {
     dispatch(
       updateData({
