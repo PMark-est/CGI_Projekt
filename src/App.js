@@ -10,10 +10,6 @@ function App() {
     <>
       <div className="title">
         <h1>Night time calculator</h1>
-        <p>
-          Minor bug - You have to click twice on the calendar for the date to be
-          selected
-        </p>
         <CaluclateNight />
       </div>
       <LatLngInputs />
