@@ -1,0 +1,20 @@
+.Sample {
+  position: absolute;
+  left: 60%;
+  top: 20%;
+}
+.react-calendar {
+  width: 80%;
+  background: #fab48cdc;
+}
+.react-calendar__tile--now {
+  background: #a8a4ff;
+}
+.react-calendar__tile--active {
+  background: #a4ceff;
+  color: white;
+}
+.react-calendar__tile--active:enabled:hover,
+.react-calendar__tile--active:enabled:focus {
+  background: #a4ceff;
+}
