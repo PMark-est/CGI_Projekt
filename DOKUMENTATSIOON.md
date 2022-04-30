@@ -1,6 +1,6 @@
 Käivitamiseks ava terminal selles projektis
 
-**kirjuta 'npm install', see installid vajavadmoodulid**
+**kirjuta 'npm install', see installib vajavad moodulid**
 
 **siis kui nad on installeeritud kirjuta 'npm start'**
 
