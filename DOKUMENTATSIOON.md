@@ -1,21 +1,13 @@
-Käivitamiseks ava terminal selles samas projektis
+## Käivitamiseks ava terminal selles projektis
 
-### kõigepealt kirjuta 'npm install', see hakkab
+## kirjuta 'npm install', see installid vajavad moodulid
 
-### vajavaid mooduleid installeerima.
+## siis kui nad on installeeritud kirjuta 'npm start'
 
-### ja siis kui nad on installeeritud kirjuta 'npm start'
+## Sulgemiseks vajuta ctrl + c
 
-Sulgemiseks vajuta ctrl + c
-
-Veebirakendus peaks avanema automaatselt, aga juhul kui ei avane
-kirjutage otsingusse http://localhost:3000
-
-Töö jaoks kulus umbes 44 tundi. Loogika loomisega raskusi ei esinenud pigem
-uute tehnoloogiate haldamises ja kasutamises. Kõige enam aega kulus selle jaoks,
-et leida missugust tarkvara kasutada, et luua veebirakendus. Öövälja kuvamist ei
-jõudnud implementeerida, aga ma teeksin seda niimoodi, et uuriksin ajavöönditest
-ning kellaaja järgi looksin ala, mis on öös.
+## Veebirakendus peaks avanema automaatselt, aga juhul kui ei avane
+## kirjutage otsingusse http://localhost:3000
 
 ### RAKENDUSE KASUTAMINE
 
@@ -27,3 +19,11 @@ Vajuta kaardile, et valida asukoht või sisesta käsitsi tekstiväljadesse.
 
 Järgmise etapina peab valima kuupäeva kalendrilt. Kuupäeva peab klõpsama
 kaks korda, et kuvaks õige kuupäeva andmed.
+
+### TÖÖ TEGEMINE
+Töö jaoks kulus umbes 44 tundi. Loogika loomisega raskusi ei esinenud ja oli
+tegelikkuses üsna lihtne. Pigem oli raskused uute tehnoloogiate haldamises ja
+kasutamises. Kõige enam aega kulus selle jaoks, et leida missugust tarkvara
+kasutada, et luua veebirakendus. Öövälja kuvamist ei jõudnud implementeerida,
+aga ma teeksin seda niimoodi, et uuriksin ajavöönditest ning kellaaja järgi
+looksin ala -ristküliku või ringi-, mis on öös.
