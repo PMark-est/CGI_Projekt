@@ -26,12 +26,10 @@ export default function CaluclateNight() {
     coordinates.lng
   ).sunset;
 
-  console.log(sunrise, sunset);
   var nightHours = 24 - sunset.getHours() + sunrise.getHours();
   if (sunrise.getHours() > sunset.getHours()) {
     nightHours = sunrise.getHours() - sunset.getHours();
   }
-  console.log(nightHours);
   var nightMinutes = 0;
   if (sunrise.getMinutes() < sunset.getMinutes()) {
     nightMinutes = 60 - (sunset.getMinutes() - sunrise.getMinutes());
