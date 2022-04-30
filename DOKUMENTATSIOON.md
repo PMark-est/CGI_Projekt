@@ -13,7 +13,9 @@ kirjutage otsingusse http://localhost:3000
 
 Töö jaoks kulus umbes 44 tundi. Loogika loomisega raskusi ei esinenud pigem
 uute tehnoloogiate haldamises ja kasutamises. Kõige enam aega kulus selle jaoks,
-et leida missugust tarkvara kasutada, et luua veebirakendus.
+et leida missugust tarkvara kasutada, et luua veebirakendus. Öövälja kuvamist ei
+jõudnud implementeerida, aga ma teeksin seda niimoodi, et uuriksin ajavöönditest
+ning kellaaja järgi looksin ala, mis on öös.
 
 ### RAKENDUSE KASUTAMINE
 
