@@ -1,13 +1,13 @@
-## Käivitamiseks ava terminal selles projektis
+# Käivitamiseks ava terminal selles projektis
 
-## kirjuta 'npm install', see installid vajavad moodulid
+# kirjuta 'npm install', see installid vajavad moodulid
 
-## siis kui nad on installeeritud kirjuta 'npm start'
+# siis kui nad on installeeritud kirjuta 'npm start'
 
-## Sulgemiseks vajuta ctrl + c
+# Sulgemiseks vajuta ctrl + c
 
-## Veebirakendus peaks avanema automaatselt, aga juhul kui ei avane
-## kirjutage otsingusse http://localhost:3000
+# Veebirakendus peaks avanema automaatselt, aga juhul kui ei avane
+# kirjutage otsingusse http://localhost:3000
 
 ### RAKENDUSE KASUTAMINE
 
