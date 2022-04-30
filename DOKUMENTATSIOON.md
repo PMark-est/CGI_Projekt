@@ -6,7 +6,7 @@ Käivitamiseks ava terminal selles samas projektis
 
 ### ja siis kui nad on installeeritud kirjuta 'npm start'
 
-Sulgemiseks vajuta ctrl + c või vajuta pane terminal kinni ristist
+Sulgemiseks vajuta ctrl + c
 
 Veebirakendus peaks avanema automaatselt, aga juhul kui ei avane
 kirjutage otsingusse http://localhost:3000
@@ -19,10 +19,11 @@ ning kellaaja järgi looksin ala, mis on öös.
 
 ### RAKENDUSE KASUTAMINE
 
-Vajuta kaardile, et valida asukoht või sisesta käsitsi tekstiväljadesse
-"latitude" - laiuskraadid - ja "longitude" - pikkuskraadid, siis vajuta
-all olevale nupule "Get night length", mis sisestab andmed ja kuvab
-koha kaardil märgiga(kui pole näha vähenda suurendust).
+Vajuta kaardile, et valida asukoht või sisesta käsitsi tekstiväljadesse.
+
+"latitude" - laiuskraadid - ja "longitude" - pikkuskraadid. 
+
+"Get night length", sisestab andmed ja kuvab koha kaardil märgiga
 
 Järgmise etapina peab valima kuupäeva kalendrilt. Kuupäeva peab klõpsama
 kaks korda, et kuvaks õige kuupäeva andmed.
