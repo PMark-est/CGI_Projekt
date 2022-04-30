@@ -24,7 +24,6 @@ kaks korda, et kuvaks õige kuupäeva andmed.
 Töö jaoks kulus umbes 44 tundi. Loogika loomisega raskusi ei esinenud ja oli
 tegelikkuses üsna lihtne. Pigem oli raskused uute tehnoloogiate haldamises ja
 kasutamises. Kõige enam aega kulus selle jaoks, et leida missugust tarkvara
-kasutada, et luua veebirakendus. Öövälja kuvamist ei jõudnud implementeerida,
-aga ma teeksin seda niimoodi, et uuriksin ajavöönditest. Sisestatud kellaaja järgi
-vaatan, mitu tundi on hommikuni. Järgmisena kuvaksin kuju, milles on alad, kus on
-öö.
+kasutada, et luua veebirakendus. Öövälja kuvamist ei jõudnud implementeerida.
+Esimene plaan oleks sisestatud kellaaja järgi leida mitu tundi hommikuni on,
+ning selle põhjal kuvaks, kus on öö.
