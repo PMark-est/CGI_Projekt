@@ -1,6 +1,8 @@
 .pCalculateNight {
   position: absolute;
-  top: 46vh;
+  top: 48vh;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 1.2vw;
+  text-align: center;
+  color: #eeeee4;
 }
