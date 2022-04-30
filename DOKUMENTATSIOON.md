@@ -15,7 +15,6 @@ Vajuta kaardile, et valida asukoht või sisesta käsitsi tekstiväljadesse.
 
 "latitude" - laiuskraadid - ja "longitude" - pikkuskraadid. 
 
-Tekstiväjadesse saab ainult kirjutada nm
 
 "Get night length", sisestab andmed ja kuvab koha kaardil märgiga
 
